@@ -14,11 +14,6 @@ namespace Algorithms
 {
     class Program
     {
-        static string[] arr = new string[4];
-        static List<int> divide12 = new List<int>();
-        static List<int> divide15 = new List<int>();
-
-
         static void Main(string[] args)
         {
             int n = int.Parse(Console.ReadLine());
