@@ -53,7 +53,6 @@ namespace Algorithms
             string start = arr[0] + "" + arr[2] + arr[1] + arr[3]; // 1123
             int sum = int.Parse(arr[0] + "" + arr[2]) + int.Parse(arr[1] + "" + arr[3]); //34
             int firstPart = int.Parse(arr[0] + "" + arr[2]); //11
-            //int secondPart = int.Parse(arr[1] + "" + arr[3]); //23
 
             while (true)
             {
